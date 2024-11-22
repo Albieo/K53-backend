@@ -1,0 +1,13 @@
+Django>=4.0.0
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-oauth-toolkit
+django-filter
+dj-database-url
+mysqlclient
+requests
+psycopg[binary]
+python-decouple
+python-dotenv
+pyyaml

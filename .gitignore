@@ -1,0 +1,20 @@
+# Python virtual environment
+K53-app/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Django files
+db.sqlite3
+
+# Logs
+*.log
+
+# Static and Media files
+/static/
+/media/
+
+# Security options
+.env 
