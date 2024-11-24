@@ -17,4 +17,6 @@ db.sqlite3
 /media/
 
 # Security options
-.env 
+.env
+
+django.txt
